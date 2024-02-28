@@ -1,4 +1,4 @@
-# Simple Bash Utils
+# s21_SimpleBashUtils
 
 Реализация утилит Bash по работе с текстом: cat, grep на языке C.
 
